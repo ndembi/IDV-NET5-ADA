@@ -13,6 +13,6 @@ R : La cartographie ADA permet de d’affiner les recherches par Région dans un
 
  <small>« Nous estimons que nos journées sont déjà trop chargées , pour s’occuper des tâches administratives, c’est pour quoi  grâce à une interface  fine, simple et intuitive nous pouvons changer les choses, ADA est la solution faite pour nous faciliter la vie ! »</small>
 EDITEUR
-Xel NDEMBI
-Master 2 Architechture Logiciel Développement d’Application
+Xel NDEMBI</br>
+Master 2 Architechture Logiciel Développement d’Application</br>
 ETNA Promo 2018
